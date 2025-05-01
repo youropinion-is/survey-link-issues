@@ -6,7 +6,7 @@ We truly appreciate your feedback — thank you for helping us improve!
 
 ## Reporting Security Issues
 
-The YourOpinion.is team and community treates security issues very seriously. We appreciate your efforts to responsibly disclose your findings.
+The YourOpinion.is team and community treats security issues very seriously. We appreciate your efforts to responsibly disclose your findings.
 
 To report a security issue, please use the GitHub Security Advisory ["Report a Vulnerability"](https://github.com/youropinion-is/survey-link-issues/security/advisories/new) tab.
 
